@@ -6,6 +6,14 @@ body{
     padding: 0;
 }
 
+#cabecera
+{
+    background: purple;
+    color: black;
+    margin: 0px;
+    padding: 0ch;
+}
+
 #container
 {
     width: 70%;
